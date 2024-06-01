@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first repository
 <br>
-Author- Pavan Mohite
+Author- Pavan Mohite (Apana Collage)
